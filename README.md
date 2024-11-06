@@ -32,6 +32,6 @@ https://github.com/user-attachments/assets/a68ea33b-8b48-439b-a0dc-467cd2e02844
 
 
 
-### 관련 문서
+### ✉관련 문서
 [(발표자료)](https://github.com/user-attachments/files/17642892/AWS.EKS.3-TIER.pdf)
 
